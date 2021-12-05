@@ -7,7 +7,7 @@ public class DatabaseHW {
 	public static void main(String[] args) {
 		String url = "jdbc:mysql://localhost:3306/TomasHW";
 		String user = "root";
-		String pw = "maPuB4af";
+		String pw = "";
 		String filePath = "/home/christian/Documents/Tomas/sql_hw/indiegogo2.csv";
 		String tableName = "indiegogo2";
 		String keywordColumn = "tags";
